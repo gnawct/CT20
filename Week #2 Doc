@@ -1,0 +1,3 @@
+I'm deciding to make multiple types of clocks using the many 2d primitive shapes. So that includes arc(), circle(), ellipse(), line(), point(), quad(), rect(), square(), and triangle(). I've started to work on the ARC clock and seems to mostly work. I think using a image of a clock face won't match up well with the hands so I'm probably going to create my own circle and nodes for the time.
+Actually just had an idea. what if I use the arcs like sound waves, moving away from a source, maybe like paul revere or somt, and it can lose or shift colors as it gets farther away. Still a work in progress but I'll think of more ideas for the other shapes and stuff.
+Anyway, this is gonna be my assingment one and hopefully I'm not putting my foot too far forward this time...
