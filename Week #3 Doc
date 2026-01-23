@@ -1,1 +1,37 @@
+My plans for clock project:
 
+Arc()
+- Simple: Arc clocks using the degrees to count time.
+- Complex: Using the arcs like waves. Probably going to use the waves sort of like a sound wave or like someone calling 
+
+Circle()
+- Simple: Pendulum or metronom that swings for each clock
+- Complex: Probably going for a clock where teh hands are replaced by balls rolling on the edge in different sizes and colors.
+
+Ellipse()
+- Simple:
+- Complex:
+
+Line()
+- Simple: Line clock with shortening lines based on time
+- Complex:
+
+Point()
+- Simple:
+- Complex:
+
+Quad()
+- Simple:
+- Complex:
+
+Rect()
+- Simple:
+- Complex:
+
+Square()
+- Simple:
+- Complex:
+
+Triangle()
+- Simple:
+- Complex:
