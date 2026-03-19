@@ -1,1 +1,7 @@
-
+Began my third project with ideas.
+Conway's Game of Life:
+- Simple and Complex Tessellations
+- Color Gradients and changing the life value
+- mutating the check radius and amount
+  - instead of just checking neighboring tiles or only requiring 3 tiles to switch colors, maybe more tiles and farther ranges could yeild different results
+- playing with ideas for currents and curcuits.
